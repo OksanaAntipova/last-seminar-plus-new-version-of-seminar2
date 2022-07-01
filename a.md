@@ -50,6 +50,8 @@ And again and again im writting something
 Well i hope now it will work
 Guess it was working  before  lets see again
 
+And one more  time let  to see
+
 Для сохранения изменений используем **git commit -m"commit message"** 
 
 5. _История изменений_
