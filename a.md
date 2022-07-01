@@ -41,7 +41,13 @@ Trying to write  something for homework
 
 Для добавление версионности используем **git add**, после чего внесеные изменения становятся отслеживаемыми 
 
+Again i have to write something so again i  do it 
+
 4. _Сохранение изменений_ 
+
+And again and again im writting something 
+
+Well i hope now it will work
 
 Для сохранения изменений используем **git commit -m"commit message"** 
 
