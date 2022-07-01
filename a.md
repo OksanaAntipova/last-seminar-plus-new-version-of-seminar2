@@ -48,6 +48,7 @@ Again i have to write something so again i  do it
 And again and again im writting something 
 
 Well i hope now it will work
+Guess it was working  before  lets see again
 
 Для сохранения изменений используем **git commit -m"commit message"** 
 
